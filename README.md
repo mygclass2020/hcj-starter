@@ -14,27 +14,27 @@
 
 ### 2. Go to Settings --> Pages -->  Github Actions
 
-![img](documentation\images\2.png)
+![img](documentation/images/2.png)
 
 ### 3. Under 'Static HTML' , select configure and commit your changes
 
-![img](documentation\images\3.png)
+![img](documentation/images/3.png)
 
 ### 4. Your static website has been deployed
 
-![img](documentation\images\4.png)
+![img](documentation/images/4.png)
 
 ## Adding Html, Css and Javascript to your website
 
 ### 1. Clone your repository and open in VS code
 
-![img](documentation\images\5.png)
+![img](documentation/images/5.png)
 
-![img](documentation\images\6.png)
+![img](documentation/images/6.png)
 
 ### 2. Create the folder and file structure as shown below
 
-![img](documentation\images\7.png)
+![img](documentation/images/7.png)
 
 ### 3. Code for 'index.html'
 
@@ -106,11 +106,11 @@ console.log(`${Date()} :: This is a starter template for a simple web app.`);
 
 ### 6. Under Settings --> Pages, you will see the link to your website
 
-![img](documentation\images\8.png)
+![img](documentation/images/8.png)
 
 ### 7. Your first website is ready
 
-![img](documentation\images\9.png)
+![img](documentation/images/9.png)
 
 ## Creating a favicon
 
@@ -126,4 +126,4 @@ console.log(`${Date()} :: This is a starter template for a simple web app.`);
 
 ### 4. Your website now has it's own favicon
 
-![img](documentation\images\10.png)
+![img](documentation/images/10.png)
